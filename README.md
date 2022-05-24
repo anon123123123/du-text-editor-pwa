@@ -37,7 +37,7 @@ About:
 * The Node based application is a PWA meaning it's installable with thick-client like properties  
 * View in Chrome in a non-incognito browser session to install locally  
 
-[Deployed Site](http://morning-lake-17628-herokuapp.com:3000/)
+[Deployed Site](https://whispering-beach-79862.herokuapp.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
