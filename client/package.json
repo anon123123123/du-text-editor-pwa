@@ -1,5 +1,7 @@
 {
   "name": "JATE",
+  "version": "1.0.0",
+  "description": "",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
